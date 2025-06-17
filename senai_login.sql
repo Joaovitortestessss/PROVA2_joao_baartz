@@ -133,7 +133,7 @@ INSERT INTO `funcionario` (`id_funcionario`, `nome_funcionario`, `endereco`, `te
 (3, 'Roberto Santos', 'Rua Z, 700', '31977777777', 'roberto@email.com'),
 (4, 'Camila Ferreira', 'Rua W, 800', '41988888888', 'camila@email.com'),
 (5, 'Jesse Pinkman', 'Rua Novo Mexico, 171', '2132145874', 'jesse@jesse.com');
-select * from funcionario;
+
 -- --------------------------------------------------------
 
 --
